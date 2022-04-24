@@ -26,7 +26,7 @@ O teste será implementado com o TypeORM para estudos.
 - Deve ser possível cadastrar um equipamento associado a um cliente por seu ID.
 
 
-### Deletar equipment
+### Deletar equipamento
 
 **RF**
 - Deve ser possível deletar um equipamento.
